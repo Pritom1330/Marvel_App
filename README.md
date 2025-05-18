@@ -1,4 +1,4 @@
-# Marvel App 🦸‍♂️🦸‍♀️
+![image](https://github.com/user-attachments/assets/c78d1e57-79c8-419a-985f-6fbecb5cfe06)# Marvel App 🦸‍♂️🦸‍♀️
 
 A Flutter-based mobile application that allows users to explore detailed information about Marvel characters using the official Marvel API.
 
@@ -9,11 +9,6 @@ A Flutter-based mobile application that allows users to explore detailed informa
 - ❤️ Mark favorite characters
 - 🔄 Real-time data fetched via Marvel API
 - 📱 Responsive and clean UI
-- ☁️ Firebase integration for future enhancements
-
-## 📷 Screenshots
-
-*(Add your app screenshots here after pushing to GitHub)*
 
 ## 🛠️ Built With
 
