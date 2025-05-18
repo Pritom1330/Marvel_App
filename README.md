@@ -23,7 +23,7 @@ A Flutter-based mobile application that allows users to explore detailed informa
 ### Prerequisites
 
 - Flutter SDK installed
-- Android Studio / VS Code
+- Android Studio 
 - Marvel API Key (sign up at [developer.marvel.com](https://developer.marvel.com))
 
 ### Steps
